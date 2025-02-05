@@ -16,4 +16,4 @@ Acredito no poder do design aliado ao desenvolvimento para transformar ideias em
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JhenifferMoraes&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=823113&text_color=FFF&border_radius=3&border_color=bd4a09&icon_color=823113&theme=jolly)
 
-Clique [aqui](https://jheniffermoraes.github.io/memory-game/) e acesse meu portfolio!
+Clique [aqui](https://jheniffermoraes.github.io/dio-portfolio/) e acesse meu portfolio!
