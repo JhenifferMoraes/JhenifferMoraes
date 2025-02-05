@@ -1,7 +1,7 @@
 
 
 <h1>🧡 Jheniffer Moraes</h1>
-<img align="right" alt="Vetor by Jheniffer Moraes" height="400" src="computador.png">
+<img align="right" alt="Vetor by Jheniffer Moraes" height="380" src="computador.png">
 
 <p align="justify">Olá! Sou designer de interfaces e desenvolvedora front-end em transição, apaixonada por criar experiências digitais. Com 24 anos, estou consolidando minha atuação em UX/UI focada em desenvolvimento de interfaces, unindo design e código para interfaces mais acessíveis. Formada pela ETEC - São Paulo, tenho experiência em HTML, CSS, JavaScript, e React.
 <br>
