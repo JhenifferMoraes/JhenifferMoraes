@@ -1,7 +1,7 @@
 
 
 <h1>🧡 Jheniffer Moraes</h1>
-<img align="right" alt="Vetor by Jheniffer Moraes" height="380" src="computador.png">
+<img align="right" alt="Vetor by Jheniffer Moraes" height="450" src="computer.png">
 
 <p align="justify">Olá! Sou Jheniffer de Moraes, tenho 24 anos, sou desenvolvedora front-end e designer de interfaces em transição de carreira. Sou apaixonada por criar experiências digitais e aprender coisas novas. Atualmente, estou consolidando minha atuação na área de front-end, pois acredito no poder do design aliado ao desenvolvimento para transformar ideias em produtos intuitivos e eficientes. Sou formada pelo curso técnico da ETEC - Praia Grande, em Informática para Internet, e atualmente sou aluna do curso de Engenharia de Software na Uninter.
 <br>
