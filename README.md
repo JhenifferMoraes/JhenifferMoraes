@@ -3,7 +3,9 @@
 <h1>Jheniffer Moraes</h1>
 <img align="right" alt="Vetor by Jheniffer Moraes" height="450" src="computer.png">
 
-<p align="justify">Olá! Sou Jheniffer de Moraes, tenho 24 anos, sou estudante de Engenharia de Software em transição de carreira. Sou apaixonada por criar experiências digitais e aprender coisas novas. Atualmente, estou consolidando minha atuação na área de front-end, pois acredito no poder do design aliado ao desenvolvimento para transformar ideias em produtos intuitivos e eficientes. Sou formada pelo curso técnico da ETEC - Praia Grande, em Informática para Internet, e atualmente sou aluna do curso de Engenharia de Software na Uninter.
+<p align="justify">Olá! Sou Jheniffer de Moraes, tenho 24 anos e sou desenvolvedora front-end em transição de carreira, com formação técnica em Informática para Internet (ETEC) e atualmente estou cursando bacharelado em Engenharia de Software (UNINTER). Participei de bootcamps voltados ao uso de Linux e Design Thinking, ampliando minha visão de desenvolvimento como processo criativo e técnico.
+
+Atualmente, desenvolvo projetos práticos com HTML, CSS e JavaScript, aplicando conceitos de design responsivo, semântica e UX. Tenho um portfólio ativo hospedado no GitHub Pages e publiquei conteúdos técnicos sobre CSS e Flexbox no LinkedIn, com foco didático. 
 <br>
 <br>
 Estou sempre em busca de aprendizado e desafios!</p>
